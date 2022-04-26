@@ -1,0 +1,3 @@
+These classes are used to associate state and propagate it throughout callbacks and promise chains. 
+This can be considered as a global variable related to a particular asynchronous execution context.
+They allow storing data throughout the lifetime of a web request or any other asynchronous duration. It is similar to thread-local storage in other languages.
